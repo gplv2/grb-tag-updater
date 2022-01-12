@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gplv2/grb-tag-updater/issues"
   },
-  "homepage": "https://github.com/gplv2/grb-tag-updater#readme"
+  "homepage": "https://github.com/gplv2/grb-tag-updater#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
 }
