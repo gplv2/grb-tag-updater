@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='50.4663914' minlon='4.8728463' maxlat='50.4671999' maxlon='4.874776' origin='CGImap 0.8.6 (847341 spike-07.openstreetmap.org)' />
+  <node id='305970800' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='9' changeset='79450347' lat='50.4657492' lon='4.8717889' />
+  <node id='1036605347' timestamp='2016-06-14T15:04:57Z' uid='166307' user='steak country' visible='true' version='4' changeset='40019345' lat='50.4660677' lon='4.8729413' />
+  <node id='1209684808' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.466854' lon='4.8733934' />
+  <node id='1209684929' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='3' changeset='79450347' lat='50.4667917' lon='4.8742106' />
+  <node id='1209685048' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.466789' lon='4.8736991' />
+  <node id='1209685240' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='3' changeset='79450347' lat='50.4666806' lon='4.8742867' />
+  <node id='1209685363' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.4672351' lon='4.8742781' />
+  <node id='1209685367' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.466545' lon='4.8728309' />
+  <node id='1209685418' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='3' changeset='79450347' lat='50.466925' lon='4.8751577' />
+  <node id='1209685510' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.4671248' lon='4.8743572' />
+  <node id='1209685511' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.4664334' lon='4.8729067' />
+  <node id='1209685686' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.4666791' lon='4.8737759' />
+  <node id='1209685838' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='5' changeset='79450347' lat='50.4669665' lon='4.8733156' />
+  <node id='1209686056' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='3' changeset='79450347' lat='50.4670364' lon='4.875081' />
+  <node id='2296640118' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='4' changeset='79450347' lat='50.4666097' lon='4.8748532' />
+  <node id='2466246377' timestamp='2018-09-16T12:34:09Z' uid='911613' user='StijnRR' visible='true' version='2' changeset='62634411' lat='50.4668298' lon='4.8757005' />
+  <node id='2734546747' timestamp='2021-06-03T12:17:37Z' uid='3051783' user='JuliusOne' visible='true' version='5' changeset='105777826' lat='50.4657796' lon='4.8718961'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='crossing:island' v='no' />
+    <tag k='crossing_ref' v='zebra' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='2734546760' timestamp='2020-12-01T19:39:00Z' uid='3051783' user='JuliusOne' visible='true' version='4' changeset='95113393' lat='50.4665803' lon='4.8747549'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='crossing:island' v='no' />
+    <tag k='crossing_ref' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='2885701304' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.466572' lon='4.8726618' />
+  <node id='2885701306' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='3' changeset='79450914' lat='50.4668371' lon='4.8724793' />
+  <node id='4242975922' timestamp='2016-06-14T15:04:52Z' uid='166307' user='steak country' visible='true' version='1' changeset='40019345' lat='50.46606' lon='4.8729131' />
+  <node id='4242975940' timestamp='2016-06-14T15:04:52Z' uid='166307' user='steak country' visible='true' version='1' changeset='40019345' lat='50.4662913' lon='4.8734319' />
+  <node id='4242975943' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.4663596' lon='4.8728089' />
+  <node id='4242975946' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.4664919' lon='4.8732797' />
+  <node id='4242975960' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.466815' lon='4.8753079' />
+  <node id='4242975964' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.4670967' lon='4.8751138' />
+  <node id='4242975965' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.4671143' lon='4.8744678' />
+  <node id='4242975967' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.4672179' lon='4.8748384' />
+  <node id='4242975969' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914' lat='50.4673514' lon='4.8743044' />
+  <node id='6925693629' timestamp='2019-10-28T22:31:46Z' uid='10419184' user='jdevroede' visible='true' version='1' changeset='76317693' lat='50.4665706' lon='4.8744598'>
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='NAMUR Rue des Bourgeois' />
+    <tag k='network' v='TEC' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='7124242343' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669821' lon='4.8733717' />
+  <node id='7124242344' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669861' lon='4.8733686' />
+  <node id='7124242345' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4672204' lon='4.8742202' />
+  <node id='7124242346' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4672254' lon='4.8742154' />
+  <node id='7124242347' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.467196' lon='4.8743074' />
+  <node id='7124242348' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4671647' lon='4.8743296' />
+  <node id='7124242349' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4671714' lon='4.874353' />
+  <node id='7124242350' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4672005' lon='4.8743333' />
+  <node id='7124242351' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4671081' lon='4.8742972' />
+  <node id='7124242352' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.467102' lon='4.8743031' />
+  <node id='7124242353' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.466869' lon='4.8734506' />
+  <node id='7124242354' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668642' lon='4.8734566' />
+  <node id='7124242355' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.466893' lon='4.8733641' />
+  <node id='7124242356' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669176' lon='4.8733217' />
+  <node id='7124242357' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668865' lon='4.8733425' />
+  <node id='7124242358' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669244' lon='4.8733449' />
+  <node id='7124264996' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667506' lon='4.8742382' />
+  <node id='7124264997' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667436' lon='4.8742154' />
+  <node id='7124264998' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667216' lon='4.8742593' />
+  <node id='7124264999' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667148' lon='4.8742362' />
+  <node id='7124265000' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4666968' lon='4.8743447' />
+  <node id='7124265001' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4666941' lon='4.8743609' />
+  <node id='7124265002' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4666907' lon='4.8743487' />
+  <node id='7124265003' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667012' lon='4.874357' />
+  <node id='7124265004' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667238' lon='4.8744368' />
+  <node id='7124265005' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.466717' lon='4.8744415' />
+  <node id='7124265006' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667203' lon='4.8744541' />
+  <node id='7124265007' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667275' lon='4.8744496' />
+  <node id='7124265008' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667499' lon='4.8745296' />
+  <node id='7124265009' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667431' lon='4.8745345' />
+  <node id='7124265010' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667463' lon='4.8745467' />
+  <node id='7124265011' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667533' lon='4.8745424' />
+  <node id='7124265012' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667759' lon='4.8746227' />
+  <node id='7124265013' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667693' lon='4.874627' />
+  <node id='7124265014' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667796' lon='4.8746352' />
+  <node id='7124265015' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667725' lon='4.8746395' />
+  <node id='7124265016' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667953' lon='4.8747202' />
+  <node id='7124265017' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668022' lon='4.8747148' />
+  <node id='7124265018' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667984' lon='4.874732' />
+  <node id='7124265019' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668055' lon='4.8747276' />
+  <node id='7124265020' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668282' lon='4.8748084' />
+  <node id='7124265021' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668212' lon='4.8748125' />
+  <node id='7124265022' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668245' lon='4.8748246' />
+  <node id='7124265023' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668314' lon='4.8748203' />
+  <node id='7124265024' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668544' lon='4.8749012' />
+  <node id='7124265025' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668474' lon='4.8749056' />
+  <node id='7124265026' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668508' lon='4.8749176' />
+  <node id='7124265027' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668577' lon='4.8749133' />
+  <node id='7124265028' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668803' lon='4.8749938' />
+  <node id='7124265029' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668734' lon='4.8749984' />
+  <node id='7124265030' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668766' lon='4.8750104' />
+  <node id='7124265031' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668837' lon='4.8750061' />
+  <node id='7124265032' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669064' lon='4.8750864' />
+  <node id='7124265033' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668994' lon='4.8750912' />
+  <node id='7124265034' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669025' lon='4.8751029' />
+  <node id='7124265035' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669086' lon='4.8750995' />
+  <node id='7124265036' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.466966' lon='4.87513' />
+  <node id='7124265037' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4670018' lon='4.8751322' />
+  <node id='7124265038' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669729' lon='4.8751525' />
+  <node id='7124265039' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4669953' lon='4.8751092' />
+  <node id='7124265040' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4670181' lon='4.8750175' />
+  <node id='7124265041' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4670255' lon='4.8750187' />
+  <node id='7124265042' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668104' lon='4.8742738' />
+  <node id='7124265043' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4668148' lon='4.874267' />
+  <node id='7124265044' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4665039' lon='4.8728585' />
+  <node id='7124265045' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4664974' lon='4.8728349' />
+  <node id='7124265046' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4664738' lon='4.8728802' />
+  <node id='7124265047' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4664683' lon='4.8728562' />
+  <node id='7124265048' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4664444' lon='4.8729712' />
+  <node id='7124265049' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4664489' lon='4.8729655' />
+  <node id='7124265050' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4666559' lon='4.8737217' />
+  <node id='7124265051' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4666632' lon='4.8737195' />
+  <node id='7124265052' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667193' lon='4.8737506' />
+  <node id='7124265053' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667266' lon='4.8737733' />
+  <node id='7124265054' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667556' lon='4.8737509' />
+  <node id='7124265055' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667494' lon='4.8737277' />
+  <node id='7124265056' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667744' lon='4.8736427' />
+  <node id='7124265057' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4667813' lon='4.8736387' />
+  <node id='7124265058' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.466569' lon='4.872889' />
+  <node id='7124265059' timestamp='2020-01-11T12:36:04Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450347' lat='50.4665631' lon='4.8728932' />
+  <node id='7124286859' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79450914' lat='50.4670521' lon='4.8749461' />
+  <node id='7124298426' timestamp='2020-01-11T13:41:27Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451773' lat='50.4662238' lon='4.8743135' />
+  <node id='7124298427' timestamp='2020-01-11T13:41:27Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451773' lat='50.4662292' lon='4.8742748' />
+  <node id='7124298429' timestamp='2020-01-11T13:41:27Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451773' lat='50.4662395' lon='4.8742125' />
+  <node id='7124298436' timestamp='2020-01-11T13:41:27Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451773' lat='50.466283' lon='4.8741739' />
+  <node id='7124308802' timestamp='2020-01-11T13:38:21Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451687' lat='50.4663649' lon='4.8747768' />
+  <node id='7124308803' timestamp='2020-01-11T13:38:21Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451687' lat='50.4663849' lon='4.8748506' />
+  <node id='7124308804' timestamp='2020-01-11T13:38:21Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451687' lat='50.4664998' lon='4.8748188' />
+  <node id='7124308805' timestamp='2020-01-11T13:38:21Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451687' lat='50.4665046' lon='4.874812' />
+  <node id='7124308806' timestamp='2020-01-11T13:38:21Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451687' lat='50.4665062' lon='4.8748015' />
+  <node id='7124327443' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4663317' lon='4.8742033' />
+  <node id='7124327444' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4663021' lon='4.874222' />
+  <node id='7124327445' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662886' lon='4.87417' />
+  <node id='7124327446' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662377' lon='4.8742061' />
+  <node id='7124327447' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662525' lon='4.8742583' />
+  <node id='7124327448' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.466222' lon='4.8742799' />
+  <node id='7124327449' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662189' lon='4.8742955' />
+  <node id='7124327450' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662743' lon='4.8744974' />
+  <node id='7124327451' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662726' lon='4.8744993' />
+  <node id='7124327452' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662931' lon='4.8745692' />
+  <node id='7124327453' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4662942' lon='4.8745685' />
+  <node id='7124327454' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4663513' lon='4.8747709' />
+  <node id='7124327455' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4663617' lon='4.8747791' />
+  <node id='7124327456' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.46647' lon='4.8747026' />
+  <node id='7124327457' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4664723' lon='4.8746828' />
+  <node id='7124327458' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4664201' lon='4.8744897' />
+  <node id='7124327459' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4664218' lon='4.8744883' />
+  <node id='7124327460' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4663982' lon='4.8744091' />
+  <node id='7124327461' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4663961' lon='4.8744098' />
+  <node id='7124327462' timestamp='2020-01-11T13:35:35Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451620' lat='50.4663395' lon='4.8742101' />
+  <node id='7548441307' timestamp='2020-05-22T11:45:47Z' uid='10899207' user='Vucod import' visible='true' version='1' changeset='85609275' lat='50.467073' lon='4.873858'>
+    <tag k='communication:mobile_phone' v='yes' />
+    <tag k='ref:BE:BIPT' v='21197' />
+    <tag k='ref:BE:Proximus' v='81HEU_01' />
+    <tag k='telecom' v='antenna' />
+  </node>
+  <node id='8040310662' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='1' changeset='92962110' lat='50.4664389' lon='4.8742545' />
+  <node id='8040310663' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='1' changeset='92962110' lat='50.4667321' lon='4.8740527'>
+    <tag k='access' v='private' />
+    <tag k='amenity' v='parking_entrance' />
+    <tag k='parking' v='underground' />
+  </node>
+  <node id='8040310664' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='1' changeset='92962110' lat='50.4668176' lon='4.8747705'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='8040310665' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='1' changeset='92962110' lat='50.467001' lon='4.8739435'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='8040310666' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='1' changeset='92962110' lat='50.4665527' lon='4.8733553'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <way id='28417997' timestamp='2021-05-20T16:57:19Z' uid='15170' user='Clavv' visible='true' version='18' changeset='105041961'>
+    <nd ref='305970800' />
+    <nd ref='2734546747' />
+    <nd ref='4242975922' />
+    <nd ref='1036605347' />
+    <nd ref='8040310662' />
+    <nd ref='2734546760' />
+    <nd ref='2296640118' />
+    <nd ref='2466246377' />
+    <tag k='highway' v='residential' />
+    <tag k='lane_markings' v='no' />
+    <tag k='lit' v='sunset-sunrise' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rue des Bourgeois' />
+    <tag k='postal_code' v='5000' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='104905299' action='modify' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='6' changeset='92962110'>
+    <nd ref='1209684808' />
+    <nd ref='7124242355' />
+    <nd ref='7124242357' />
+    <nd ref='7124242356' />
+    <nd ref='7124242358' />
+    <nd ref='1209685838' />
+    <nd ref='7124242343' />
+    <nd ref='7124242344' />
+    <nd ref='7124242346' />
+    <nd ref='7124242345' />
+    <nd ref='1209685363' />
+    <nd ref='7124242347' />
+    <nd ref='7124242350' />
+    <nd ref='7124242349' />
+    <nd ref='7124242348' />
+    <nd ref='1209685510' />
+    <nd ref='7124242351' />
+    <nd ref='7124242352' />
+    <nd ref='8040310665' />
+    <nd ref='7124242354' />
+    <nd ref='7124242353' />
+    <nd ref='1209684808' />
+    <tag k='addr:city' v='Namur' />
+    <tag k='addr:housenumber' v='9;7C' />
+    <tag k='addr:postcode' v='4000' />
+    <tag k='addr:street' v='Rue des Bourgeois' />
+    <tag k='building' v='office' />
+    <tag k='government' v='ministry' />
+    <tag k='name' v='Ministère des Finances' />
+    <tag k='office' v='government' />
+    <tag k='operator' v='FOD Financiën - SPF Finances - FOD Finanzen' />
+    <tag k='source:geometry:date' v='2016-06-30' />
+    <tag k='source:geometry:ref' v='Picc/710821' />
+  </way>
+  <way id='104905379' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='7' changeset='92962110'>
+    <nd ref='1209685367' />
+    <nd ref='7124265059' />
+    <nd ref='7124265058' />
+    <nd ref='7124265057' />
+    <nd ref='7124265056' />
+    <nd ref='1209685048' />
+    <nd ref='7124265055' />
+    <nd ref='7124265054' />
+    <nd ref='7124265053' />
+    <nd ref='7124265052' />
+    <nd ref='1209685686' />
+    <nd ref='7124265051' />
+    <nd ref='7124265050' />
+    <nd ref='8040310666' />
+    <nd ref='7124265048' />
+    <nd ref='7124265049' />
+    <nd ref='1209685511' />
+    <nd ref='7124265046' />
+    <nd ref='7124265047' />
+    <nd ref='7124265045' />
+    <nd ref='7124265044' />
+    <nd ref='1209685367' />
+    <tag k='addr:city' v='Namur' />
+    <tag k='addr:housename' v='A' />
+    <tag k='addr:postcode' v='4000' />
+    <tag k='addr:street' v='rue des Bourgeois' />
+    <tag k='building' v='office' />
+    <tag k='government' v='ministry' />
+    <tag k='name' v='Ministère des Finances' />
+    <tag k='office' v='government' />
+    <tag k='operator' v='FOD Financiën - SPF Finances - FOD Finanzen' />
+  </way>
+  <way id='104905421' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='7' changeset='92962110'>
+    <nd ref='1209684929' />
+    <nd ref='7124265042' />
+    <nd ref='7124265043' />
+    <nd ref='7124265041' />
+    <nd ref='7124265040' />
+    <nd ref='1209686056' />
+    <nd ref='7124265039' />
+    <nd ref='7124265037' />
+    <nd ref='7124265038' />
+    <nd ref='7124265036' />
+    <nd ref='1209685418' />
+    <nd ref='7124265035' />
+    <nd ref='7124265034' />
+    <nd ref='7124265033' />
+    <nd ref='7124265032' />
+    <nd ref='7124265031' />
+    <nd ref='7124265030' />
+    <nd ref='7124265029' />
+    <nd ref='7124265028' />
+    <nd ref='7124265027' />
+    <nd ref='7124265026' />
+    <nd ref='7124265025' />
+    <nd ref='7124265024' />
+    <nd ref='7124265023' />
+    <nd ref='7124265022' />
+    <nd ref='7124265021' />
+    <nd ref='7124265020' />
+    <nd ref='8040310664' />
+    <nd ref='7124265019' />
+    <nd ref='7124265018' />
+    <nd ref='7124265016' />
+    <nd ref='7124265017' />
+    <nd ref='7124265014' />
+    <nd ref='7124265015' />
+    <nd ref='7124265013' />
+    <nd ref='7124265012' />
+    <nd ref='7124265011' />
+    <nd ref='7124265010' />
+    <nd ref='7124265009' />
+    <nd ref='7124265008' />
+    <nd ref='7124265007' />
+    <nd ref='7124265006' />
+    <nd ref='7124265005' />
+    <nd ref='7124265004' />
+    <nd ref='7124265003' />
+    <nd ref='7124265001' />
+    <nd ref='7124265002' />
+    <nd ref='7124265000' />
+    <nd ref='1209685240' />
+    <nd ref='7124264998' />
+    <nd ref='7124264999' />
+    <nd ref='7124264997' />
+    <nd ref='7124264996' />
+    <nd ref='1209684929' />
+    <tag k='addr:city' v='Namur' />
+    <tag k='addr:postcode' v='4000' />
+    <tag k='addr:street' v='rue des Bourgeois' />
+    <tag k='building' v='office' />
+    <tag k='government' v='ministry' />
+    <tag k='name' v='Ministère des Finances' />
+    <tag k='office' v='government' />
+    <tag k='operator' v='FOD Financiën - SPF Finances - FOD Finanzen' />
+  </way>
+  <way id='424942950' timestamp='2020-01-11T13:01:45Z' uid='1267' user='Mercator' visible='true' version='2' changeset='79450914'>
+    <nd ref='4242975969' />
+    <nd ref='2885701306' />
+    <nd ref='2885701304' />
+    <nd ref='4242975943' />
+    <nd ref='4242975946' />
+    <nd ref='4242975940' />
+    <nd ref='4242975960' />
+    <nd ref='4242975964' />
+    <nd ref='7124286859' />
+    <nd ref='4242975967' />
+    <nd ref='4242975965' />
+    <nd ref='4242975969' />
+  </way>
+  <way id='762463779' timestamp='2020-01-11T13:41:27Z' uid='1267' user='Mercator' visible='true' version='3' changeset='79451773'>
+    <nd ref='7124327462' />
+    <nd ref='7124327461' />
+    <nd ref='7124327460' />
+    <nd ref='7124327459' />
+    <nd ref='7124327458' />
+    <nd ref='7124327457' />
+    <nd ref='7124327456' />
+    <nd ref='7124308802' />
+    <nd ref='7124327455' />
+    <nd ref='7124327454' />
+    <nd ref='7124327453' />
+    <nd ref='7124327452' />
+    <nd ref='7124327451' />
+    <nd ref='7124327450' />
+    <nd ref='7124298426' />
+    <nd ref='7124327449' />
+    <nd ref='7124327448' />
+    <nd ref='7124298427' />
+    <nd ref='7124327447' />
+    <nd ref='7124298429' />
+    <nd ref='7124327446' />
+    <nd ref='7124298436' />
+    <nd ref='7124327445' />
+    <nd ref='7124327444' />
+    <nd ref='7124327443' />
+    <nd ref='7124327462' />
+    <tag k='building' v='school' />
+  </way>
+  <way id='762463925' timestamp='2020-01-11T13:38:21Z' uid='1267' user='Mercator' visible='true' version='1' changeset='79451687'>
+    <nd ref='7124327457' />
+    <nd ref='7124308806' />
+    <nd ref='7124308805' />
+    <nd ref='7124308804' />
+    <nd ref='7124308803' />
+    <nd ref='7124308802' />
+    <nd ref='7124327456' />
+    <nd ref='7124327457' />
+    <tag k='building' v='school' />
+  </way>
+  <way id='863076257' timestamp='2020-10-23T16:53:58Z' uid='96395' user='DJ_frombelgium' visible='true' version='1' changeset='92962110'>
+    <nd ref='8040310663' />
+    <nd ref='8040310662' />
+    <tag k='highway' v='service' />
+    <tag k='ramp' v='yes' />
+    <tag k='service' v='parking_aisle' />
+  </way>
+  <relation id='6315032' timestamp='2016-06-14T15:04:55Z' uid='166307' user='steak country' visible='true' version='1' changeset='40019345'>
+    <member type='way' ref='424942950' role='outer' />
+    <member type='way' ref='104905299' role='inner' />
+    <member type='way' ref='104905421' role='inner' />
+    <member type='way' ref='104905379' role='inner' />
+    <tag k='area' v='yes' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='11736241' timestamp='2021-12-21T15:51:53Z' uid='2175149' user='hesdrib' visible='true' version='12' changeset='115216233'>
+    <member type='node' ref='2524249879' role='platform' />
+    <member type='node' ref='7991452138' role='platform' />
+    <member type='node' ref='7991452149' role='platform' />
+    <member type='node' ref='2285224809' role='platform' />
+    <member type='node' ref='2285224802' role='platform' />
+    <member type='node' ref='7991452151' role='platform' />
+    <member type='node' ref='1481466401' role='platform' />
+    <member type='node' ref='1712608026' role='platform_exit_only' />
+    <member type='node' ref='1224482677' role='platform_exit_only' />
+    <member type='node' ref='1218842003' role='platform_exit_only' />
+    <member type='node' ref='2980277726' role='platform' />
+    <member type='node' ref='7991452164' role='' />
+    <member type='way' ref='592027572' role='' />
+    <member type='way' ref='857128421' role='' />
+    <member type='way' ref='174044169' role='' />
+    <member type='way' ref='174044171' role='' />
+    <member type='way' ref='236516238' role='' />
+    <member type='way' ref='315255357' role='' />
+    <member type='way' ref='315255356' role='' />
+    <member type='way' ref='87520954' role='' />
+    <member type='way' ref='301189198' role='' />
+    <member type='way' ref='28877349' role='' />
+    <member type='way' ref='87520967' role='' />
+    <member type='way' ref='992218187' role='' />
+    <member type='way' ref='315255392' role='' />
+    <member type='way' ref='992218189' role='' />
+    <member type='way' ref='424794350' role='' />
+    <member type='way' ref='833233296' role='' />
+    <member type='way' ref='28877357' role='' />
+    <member type='way' ref='833233295' role='' />
+    <member type='way' ref='857128423' role='' />
+    <member type='way' ref='857128425' role='' />
+    <member type='way' ref='857128433' role='' />
+    <member type='way' ref='424794349' role='' />
+    <member type='way' ref='366213170' role='' />
+    <member type='way' ref='862196260' role='' />
+    <member type='way' ref='315255299' role='' />
+    <member type='way' ref='315255300' role='' />
+    <member type='way' ref='466515795' role='' />
+    <member type='way' ref='8328656' role='' />
+    <member type='way' ref='466515798' role='' />
+    <member type='way' ref='862196259' role='' />
+    <member type='way' ref='236516234' role='' />
+    <member type='way' ref='236516233' role='' />
+    <member type='way' ref='857128439' role='' />
+    <member type='way' ref='857128441' role='' />
+    <member type='way' ref='125401258' role='' />
+    <member type='way' ref='658132605' role='' />
+    <member type='way' ref='370457429' role='' />
+    <member type='way' ref='236729576' role='' />
+    <member type='way' ref='370457430' role='' />
+    <member type='way' ref='263989472' role='' />
+    <member type='way' ref='377796750' role='' />
+    <member type='way' ref='181256205' role='' />
+    <member type='way' ref='263989473' role='' />
+    <member type='way' ref='374802622' role='' />
+    <member type='way' ref='370556439' role='' />
+    <member type='way' ref='370556436' role='' />
+    <member type='way' ref='374802620' role='' />
+    <member type='way' ref='181256210' role='' />
+    <member type='way' ref='181254790' role='' />
+    <member type='way' ref='181253247' role='' />
+    <member type='way' ref='181253246' role='' />
+    <member type='way' ref='315255337' role='' />
+    <member type='way' ref='288355494' role='' />
+    <member type='way' ref='315255338' role='' />
+    <member type='way' ref='315255339' role='' />
+    <member type='way' ref='87279146' role='' />
+    <member type='way' ref='31422680' role='' />
+    <member type='way' ref='313595511' role='' />
+    <member type='way' ref='31422682' role='' />
+    <member type='way' ref='315255379' role='' />
+    <member type='way' ref='87543434' role='' />
+    <member type='way' ref='315255298' role='' />
+    <member type='way' ref='31422683' role='' />
+    <member type='way' ref='59497266' role='' />
+    <member type='way' ref='173434021' role='' />
+    <member type='way' ref='173434015' role='' />
+    <member type='way' ref='94710942' role='' />
+    <member type='way' ref='173434007' role='' />
+    <member type='way' ref='94710952' role='' />
+    <member type='way' ref='192795324' role='' />
+    <member type='way' ref='188912174' role='' />
+    <member type='way' ref='419342435' role='' />
+    <member type='way' ref='419342442' role='' />
+    <member type='way' ref='370556442' role='' />
+    <member type='way' ref='188912172' role='' />
+    <member type='way' ref='865964264' role='' />
+    <member type='way' ref='464328101' role='' />
+    <member type='way' ref='377678922' role='' />
+    <member type='way' ref='4431432' role='' />
+    <member type='way' ref='533551438' role='' />
+    <member type='way' ref='377678923' role='' />
+    <member type='way' ref='315255334' role='' />
+    <member type='way' ref='315255331' role='' />
+    <member type='way' ref='533551439' role='' />
+    <member type='way' ref='464335781' role='' />
+    <member type='way' ref='315255333' role='' />
+    <member type='way' ref='315255332' role='' />
+    <member type='way' ref='300874872' role='' />
+    <member type='way' ref='302160168' role='' />
+    <member type='way' ref='377676415' role='' />
+    <member type='way' ref='300874870' role='' />
+    <member type='way' ref='221585989' role='' />
+    <member type='way' ref='377676419' role='' />
+    <member type='way' ref='315544315' role='' />
+    <member type='way' ref='931910946' role='' />
+    <member type='way' ref='506643326' role='' />
+    <member type='way' ref='916498235' role='' />
+    <member type='way' ref='302160174' role='' />
+    <member type='way' ref='4275737' role='' />
+    <member type='way' ref='975119685' role='' />
+    <member type='way' ref='278524801' role='' />
+    <member type='way' ref='377676420' role='' />
+    <member type='way' ref='377676421' role='' />
+    <member type='way' ref='526863259' role='' />
+    <member type='way' ref='4275729' role='' />
+    <member type='way' ref='857128442' role='' />
+    <member type='way' ref='931720691' role='' />
+    <member type='way' ref='1014085636' role='' />
+    <member type='way' ref='28059662' role='' />
+    <member type='way' ref='174312253' role='' />
+    <member type='way' ref='58299745' role='' />
+    <member type='way' ref='4431611' role='' />
+    <member type='way' ref='4431610' role='' />
+    <member type='way' ref='353983901' role='' />
+    <member type='way' ref='353983900' role='' />
+    <member type='way' ref='4431611' role='' />
+    <member type='way' ref='857128444' role='' />
+    <member type='way' ref='30321373' role='' />
+    <member type='way' ref='30321374' role='' />
+    <member type='way' ref='154012164' role='' />
+    <member type='way' ref='961989865' role='' />
+    <member type='way' ref='154027020' role='' />
+    <member type='way' ref='961989866' role='' />
+    <member type='way' ref='134802033' role='' />
+    <member type='way' ref='156041782' role='' />
+    <member type='way' ref='4431603' role='' />
+    <member type='way' ref='972632050' role='' />
+    <member type='way' ref='626409087' role='' />
+    <member type='way' ref='220331835' role='' />
+    <member type='way' ref='221312858' role='' />
+    <member type='way' ref='244424647' role='' />
+    <member type='way' ref='298428749' role='' />
+    <member type='way' ref='244424653' role='' />
+    <member type='way' ref='181401451' role='' />
+    <member type='way' ref='37909171' role='' />
+    <member type='way' ref='37909172' role='' />
+    <member type='way' ref='37909174' role='' />
+    <member type='way' ref='37909177' role='' />
+    <member type='way' ref='37909176' role='' />
+    <member type='way' ref='4573099' role='' />
+    <member type='way' ref='28351108' role='' />
+    <member type='way' ref='4322145' role='' />
+    <member type='way' ref='4322151' role='' />
+    <member type='way' ref='4322146' role='' />
+    <member type='way' ref='34080111' role='' />
+    <member type='way' ref='192480902' role='' />
+    <member type='way' ref='544320995' role='' />
+    <member type='way' ref='4581614' role='' />
+    <member type='way' ref='158387140' role='' />
+    <member type='way' ref='22718966' role='' />
+    <member type='way' ref='916022553' role='' />
+    <member type='way' ref='158387149' role='' />
+    <member type='way' ref='4581612' role='' />
+    <member type='way' ref='162008400' role='' />
+    <member type='way' ref='28393293' role='' />
+    <member type='way' ref='162008395' role='' />
+    <member type='way' ref='34079816' role='' />
+    <member type='way' ref='298271628' role='' />
+    <member type='way' ref='298271627' role='' />
+    <member type='way' ref='28218753' role='' />
+    <member type='way' ref='492315378' role='' />
+    <member type='way' ref='28418002' role='' />
+    <member type='way' ref='158311000' role='' />
+    <member type='way' ref='43942577' role='' />
+    <member type='way' ref='34065253' role='' />
+    <member type='way' ref='857128445' role='' />
+    <member type='way' ref='625955610' role='' />
+    <member type='way' ref='28417997' role='' />
+    <member type='way' ref='294432397' role='' />
+    <member type='way' ref='529807800' role='' />
+    <member type='way' ref='33040244' role='' />
+    <member type='way' ref='28350697' role='' />
+    <member type='way' ref='294432383' role='' />
+    <member type='way' ref='26920708' role='' />
+    <member type='way' ref='45058805' role='' />
+    <member type='way' ref='298428771' role='' />
+    <member type='way' ref='159147859' role='' />
+    <member type='way' ref='529807806' role='' />
+    <tag k='from' v='Waremme Gare' />
+    <tag k='name' v='TEC Express E84 [1] Waremme - Namur' />
+    <tag k='network' v='Express' />
+    <tag k='operator' v='OTW' />
+    <tag k='ref' v='E84' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Namur - Place de la Station - Quai E' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='11736242' timestamp='2020-10-09T09:06:00Z' uid='10637503' user='AntoineGuislain' visible='true' version='1' changeset='92223625'>
+    <member type='relation' ref='11736241' role='' />
+    <tag k='name' v='Express Namur - Waremme' />
+    <tag k='network' v='Express' />
+    <tag k='operator' v='OTW' />
+    <tag k='ref' v='E84' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+</osm>

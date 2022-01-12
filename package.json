@@ -1,0 +1,24 @@
+{
+  "name": "osm-tag-updater",
+  "version": "1.0.0",
+  "description": "Tool to analyse exact geometries from PICC GRB and URBIS and add the missing backref tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gplv2/grb-tag-updater.git"
+  },
+  "keywords": [
+    "GRB",
+    "PICC",
+    "URBIS"
+  ],
+  "author": "Glenn Plas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gplv2/grb-tag-updater/issues"
+  },
+  "homepage": "https://github.com/gplv2/grb-tag-updater#readme"
+}
