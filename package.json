@@ -23,7 +23,12 @@
   "homepage": "https://github.com/gplv2/grb-tag-updater#readme",
   "dependencies": {
     "de9im": "^1.3.1",
-    "fast-xml-parser": "^4.0.1",
-    "pg": "^8.7.1"
+    "fs": "^0.0.1-security",
+    "geojsontoosm": "^0.0.3",
+    "node-xmllint": "^1.0.0",
+    "osm-and-geojson": "^0.1.2",
+    "txml": "^5.1.1",
+    "xml-beautify": "^1.1.2",
+    "xmldom": "^0.6.0"
   }
 }
