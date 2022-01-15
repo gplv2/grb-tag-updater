@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson">
+    <node id="-2" lat="50.466854" lon="4.873393" changeset="false"/>
+    <node id="-3" lat="50.466893" lon="4.873364" changeset="false"/>
+    <node id="-4" lat="50.466887" lon="4.873343" changeset="false"/>
+    <node id="-5" lat="50.466918" lon="4.873322" changeset="false"/>
+    <node id="-6" lat="50.466924" lon="4.873345" changeset="false"/>
+    <node id="-7" lat="50.466967" lon="4.873316" changeset="false"/>
+    <node id="-8" lat="50.466982" lon="4.873372" changeset="false"/>
+    <node id="-9" lat="50.466986" lon="4.873369" changeset="false"/>
+    <node id="-10" lat="50.467225" lon="4.874215" changeset="false"/>
+    <node id="-11" lat="50.46722" lon="4.87422" changeset="false"/>
+    <node id="-12" lat="50.467235" lon="4.874278" changeset="false"/>
+    <node id="-13" lat="50.467196" lon="4.874307" changeset="false"/>
+    <node id="-14" lat="50.467201" lon="4.874333" changeset="false"/>
+    <node id="-15" lat="50.467171" lon="4.874353" changeset="false"/>
+    <node id="-16" lat="50.467165" lon="4.87433" changeset="false"/>
+    <node id="-17" lat="50.467125" lon="4.874357" changeset="false"/>
+    <node id="-18" lat="50.467108" lon="4.874297" changeset="false"/>
+    <node id="-19" lat="50.467102" lon="4.874303" changeset="false"/>
+    <node id="-20" lat="50.467001" lon="4.873944" changeset="false"/>
+    <node id="-21" lat="50.466864" lon="4.873457" changeset="false"/>
+    <node id="-22" lat="50.466869" lon="4.873451" changeset="false"/>
+    <node id="-24" lat="50.466545" lon="4.872831" changeset="false"/>
+    <node id="-25" lat="50.466563" lon="4.872893" changeset="false"/>
+    <node id="-26" lat="50.466569" lon="4.872889" changeset="false"/>
+    <node id="-27" lat="50.466781" lon="4.873639" changeset="false"/>
+    <node id="-28" lat="50.466774" lon="4.873643" changeset="false"/>
+    <node id="-29" lat="50.466789" lon="4.873699" changeset="false"/>
+    <node id="-30" lat="50.466749" lon="4.873728" changeset="false"/>
+    <node id="-31" lat="50.466756" lon="4.873751" changeset="false"/>
+    <node id="-32" lat="50.466727" lon="4.873773" changeset="false"/>
+    <node id="-33" lat="50.466719" lon="4.873751" changeset="false"/>
+    <node id="-34" lat="50.466679" lon="4.873776" changeset="false"/>
+    <node id="-35" lat="50.466663" lon="4.87372" changeset="false"/>
+    <node id="-36" lat="50.466656" lon="4.873722" changeset="false"/>
+    <node id="-37" lat="50.466553" lon="4.873355" changeset="false"/>
+    <node id="-38" lat="50.466444" lon="4.872971" changeset="false"/>
+    <node id="-39" lat="50.466449" lon="4.872966" changeset="false"/>
+    <node id="-40" lat="50.466433" lon="4.872907" changeset="false"/>
+    <node id="-41" lat="50.466474" lon="4.87288" changeset="false"/>
+    <node id="-42" lat="50.466468" lon="4.872856" changeset="false"/>
+    <node id="-43" lat="50.466497" lon="4.872835" changeset="false"/>
+    <node id="-44" lat="50.466504" lon="4.872859" changeset="false"/>
+    <node id="-46" lat="50.466792" lon="4.874211" changeset="false"/>
+    <node id="-47" lat="50.46681" lon="4.874274" changeset="false"/>
+    <node id="-48" lat="50.466815" lon="4.874267" changeset="false"/>
+    <node id="-49" lat="50.467026" lon="4.875019" changeset="false"/>
+    <node id="-50" lat="50.467018" lon="4.875018" changeset="false"/>
+    <node id="-51" lat="50.467036" lon="4.875081" changeset="false"/>
+    <node id="-52" lat="50.466995" lon="4.875109" changeset="false"/>
+    <node id="-53" lat="50.467002" lon="4.875132" changeset="false"/>
+    <node id="-54" lat="50.466973" lon="4.875153" changeset="false"/>
+    <node id="-55" lat="50.466966" lon="4.87513" changeset="false"/>
+    <node id="-56" lat="50.466925" lon="4.875158" changeset="false"/>
+    <node id="-57" lat="50.466909" lon="4.8751" changeset="false"/>
+    <node id="-58" lat="50.466903" lon="4.875103" changeset="false"/>
+    <node id="-59" lat="50.466899" lon="4.875091" changeset="false"/>
+    <node id="-60" lat="50.466906" lon="4.875086" changeset="false"/>
+    <node id="-61" lat="50.466884" lon="4.875006" changeset="false"/>
+    <node id="-62" lat="50.466877" lon="4.87501" changeset="false"/>
+    <node id="-63" lat="50.466873" lon="4.874998" changeset="false"/>
+    <node id="-64" lat="50.46688" lon="4.874994" changeset="false"/>
+    <node id="-65" lat="50.466858" lon="4.874913" changeset="false"/>
+    <node id="-66" lat="50.466851" lon="4.874918" changeset="false"/>
+    <node id="-67" lat="50.466847" lon="4.874906" changeset="false"/>
+    <node id="-68" lat="50.466854" lon="4.874901" changeset="false"/>
+    <node id="-69" lat="50.466831" lon="4.87482" changeset="false"/>
+    <node id="-70" lat="50.466825" lon="4.874825" changeset="false"/>
+    <node id="-71" lat="50.466821" lon="4.874813" changeset="false"/>
+    <node id="-72" lat="50.466828" lon="4.874808" changeset="false"/>
+    <node id="-73" lat="50.466818" lon="4.874771" changeset="false"/>
+    <node id="-74" lat="50.466806" lon="4.874728" changeset="false"/>
+    <node id="-75" lat="50.466798" lon="4.874732" changeset="false"/>
+    <node id="-76" lat="50.466795" lon="4.87472" changeset="false"/>
+    <node id="-77" lat="50.466802" lon="4.874715" changeset="false"/>
+    <node id="-78" lat="50.46678" lon="4.874635" changeset="false"/>
+    <node id="-79" lat="50.466773" lon="4.87464" changeset="false"/>
+    <node id="-80" lat="50.466769" lon="4.874627" changeset="false"/>
+    <node id="-81" lat="50.466776" lon="4.874623" changeset="false"/>
+    <node id="-82" lat="50.466753" lon="4.874542" changeset="false"/>
+    <node id="-83" lat="50.466746" lon="4.874547" changeset="false"/>
+    <node id="-84" lat="50.466743" lon="4.874535" changeset="false"/>
+    <node id="-85" lat="50.46675" lon="4.87453" changeset="false"/>
+    <node id="-86" lat="50.466728" lon="4.87445" changeset="false"/>
+    <node id="-87" lat="50.46672" lon="4.874454" changeset="false"/>
+    <node id="-88" lat="50.466717" lon="4.874442" changeset="false"/>
+    <node id="-89" lat="50.466724" lon="4.874437" changeset="false"/>
+    <node id="-90" lat="50.466701" lon="4.874357" changeset="false"/>
+    <node id="-91" lat="50.466694" lon="4.874361" changeset="false"/>
+    <node id="-92" lat="50.466691" lon="4.874349" changeset="false"/>
+    <node id="-93" lat="50.466697" lon="4.874345" changeset="false"/>
+    <node id="-94" lat="50.466681" lon="4.874287" changeset="false"/>
+    <node id="-95" lat="50.466722" lon="4.874259" changeset="false"/>
+    <node id="-96" lat="50.466715" lon="4.874236" changeset="false"/>
+    <node id="-97" lat="50.466744" lon="4.874215" changeset="false"/>
+    <node id="-98" lat="50.466751" lon="4.874238" changeset="false"/>
+    <node id="-100" lat="50.467351" lon="4.874304" changeset="false"/>
+    <node id="-101" lat="50.466837" lon="4.872479" changeset="false"/>
+    <node id="-102" lat="50.466572" lon="4.872662" changeset="false"/>
+    <node id="-103" lat="50.46636" lon="4.872809" changeset="false"/>
+    <node id="-104" lat="50.466492" lon="4.87328" changeset="false"/>
+    <node id="-105" lat="50.466291" lon="4.873432" changeset="false"/>
+    <node id="-106" lat="50.466815" lon="4.875308" changeset="false"/>
+    <node id="-107" lat="50.467097" lon="4.875114" changeset="false"/>
+    <node id="-108" lat="50.467052" lon="4.874946" changeset="false"/>
+    <node id="-109" lat="50.467218" lon="4.874838" changeset="false"/>
+    <node id="-110" lat="50.467114" lon="4.874468" changeset="false"/>
+    <node id="-112" lat="50.46634" lon="4.87421" changeset="false"/>
+    <node id="-113" lat="50.466396" lon="4.87441" changeset="false"/>
+    <node id="-114" lat="50.466398" lon="4.874409" changeset="false"/>
+    <node id="-115" lat="50.466422" lon="4.874488" changeset="false"/>
+    <node id="-116" lat="50.46642" lon="4.87449" changeset="false"/>
+    <node id="-117" lat="50.466472" lon="4.874683" changeset="false"/>
+    <node id="-118" lat="50.46647" lon="4.874703" changeset="false"/>
+    <node id="-119" lat="50.466365" lon="4.874777" changeset="false"/>
+    <node id="-120" lat="50.466362" lon="4.874779" changeset="false"/>
+    <node id="-121" lat="50.466351" lon="4.874771" changeset="false"/>
+    <node id="-122" lat="50.466294" lon="4.874569" changeset="false"/>
+    <node id="-123" lat="50.466293" lon="4.874569" changeset="false"/>
+    <node id="-124" lat="50.466273" lon="4.874499" changeset="false"/>
+    <node id="-125" lat="50.466274" lon="4.874497" changeset="false"/>
+    <node id="-126" lat="50.466224" lon="4.874314" changeset="false"/>
+    <node id="-127" lat="50.466219" lon="4.874296" changeset="false"/>
+    <node id="-128" lat="50.466222" lon="4.87428" changeset="false"/>
+    <node id="-129" lat="50.466229" lon="4.874275" changeset="false"/>
+    <node id="-130" lat="50.466253" lon="4.874258" changeset="false"/>
+    <node id="-131" lat="50.46624" lon="4.874213" changeset="false"/>
+    <node id="-132" lat="50.466238" lon="4.874206" changeset="false"/>
+    <node id="-133" lat="50.466283" lon="4.874174" changeset="false"/>
+    <node id="-134" lat="50.466289" lon="4.87417" changeset="false"/>
+    <node id="-135" lat="50.466302" lon="4.874222" changeset="false"/>
+    <node id="-136" lat="50.466332" lon="4.874203" changeset="false"/>
+    <node id="-138" lat="50.466472" lon="4.874683" changeset="false"/>
+    <node id="-139" lat="50.466506" lon="4.874802" changeset="false"/>
+    <node id="-140" lat="50.466505" lon="4.874812" changeset="false"/>
+    <node id="-141" lat="50.4665" lon="4.874819" changeset="false"/>
+    <node id="-142" lat="50.466385" lon="4.874851" changeset="false"/>
+    <node id="-143" lat="50.466365" lon="4.874777" changeset="false"/>
+    <node id="-144" lat="50.46647" lon="4.874703" changeset="false"/>
+    <node id="-145" lat="50.46578" lon="4.871896" changeset="false">
+        <tag k="crossing" v="uncontrolled"/>
+        <tag k="crossing:island" v="no"/>
+        <tag k="crossing_ref" v="zebra"/>
+        <tag k="highway" v="crossing"/>
+        <tag k="tactile_paving" v="no"/>
+    </node>
+    <node id="-146" lat="50.46658" lon="4.874755" changeset="false">
+        <tag k="crossing" v="uncontrolled"/>
+        <tag k="crossing:island" v="no"/>
+        <tag k="crossing_ref" v="zebra"/>
+        <tag k="highway" v="crossing"/>
+    </node>
+    <node id="-147" lat="50.466571" lon="4.87446" changeset="false">
+        <tag k="bus" v="yes"/>
+        <tag k="highway" v="bus_stop"/>
+        <tag k="name" v="NAMUR Rue des Bourgeois"/>
+        <tag k="network" v="TEC"/>
+        <tag k="public_transport" v="platform"/>
+    </node>
+    <node id="-148" lat="50.467073" lon="4.873858" changeset="false">
+        <tag k="communication:mobile_phone" v="yes"/>
+        <tag k="ref:BE:BIPT" v="21197"/>
+        <tag k="ref:BE:Proximus" v="81HEU_01"/>
+        <tag k="telecom" v="antenna"/>
+    </node>
+    <node id="-149" lat="50.466732" lon="4.874053" changeset="false">
+        <tag k="access" v="private"/>
+        <tag k="amenity" v="parking_entrance"/>
+        <tag k="parking" v="underground"/>
+    </node>
+    <node id="-150" lat="50.466818" lon="4.874771" changeset="false">
+        <tag k="entrance" v="yes"/>
+    </node>
+    <node id="-151" lat="50.467001" lon="4.873944" changeset="false">
+        <tag k="entrance" v="yes"/>
+    </node>
+    <node id="-152" lat="50.466553" lon="4.873355" changeset="false">
+        <tag k="entrance" v="yes"/>
+    </node>
+    <way id="-1" changeset="false">
+        <nd ref="-2"/>
+        <nd ref="-3"/>
+        <nd ref="-4"/>
+        <nd ref="-5"/>
+        <nd ref="-6"/>
+        <nd ref="-7"/>
+        <nd ref="-8"/>
+        <nd ref="-9"/>
+        <nd ref="-10"/>
+        <nd ref="-11"/>
+        <nd ref="-12"/>
+        <nd ref="-13"/>
+        <nd ref="-14"/>
+        <nd ref="-15"/>
+        <nd ref="-16"/>
+        <nd ref="-17"/>
+        <nd ref="-18"/>
+        <nd ref="-19"/>
+        <nd ref="-20"/>
+        <nd ref="-21"/>
+        <nd ref="-22"/>
+        <nd ref="-2"/>
+        <tag k="addr:city" v="Namur"/>
+        <tag k="addr:postcode" v="4000"/>
+        <tag k="addr:street" v="rue des Bourgeois"/>
+        <tag k="building" v="office"/>
+        <tag k="government" v="ministry"/>
+        <tag k="name" v="Ministère des Finances"/>
+        <tag k="office" v="government"/>
+        <tag k="operator" v="FOD Financiën - SPF Finances - FOD Finanzen"/>
+    </way>
+    <way id="-23" changeset="false">
+        <nd ref="-24"/>
+        <nd ref="-25"/>
+        <nd ref="-26"/>
+        <nd ref="-27"/>
+        <nd ref="-28"/>
+        <nd ref="-29"/>
+        <nd ref="-30"/>
+        <nd ref="-31"/>
+        <nd ref="-32"/>
+        <nd ref="-33"/>
+        <nd ref="-34"/>
+        <nd ref="-35"/>
+        <nd ref="-36"/>
+        <nd ref="-37"/>
+        <nd ref="-38"/>
+        <nd ref="-39"/>
+        <nd ref="-40"/>
+        <nd ref="-41"/>
+        <nd ref="-42"/>
+        <nd ref="-43"/>
+        <nd ref="-44"/>
+        <nd ref="-24"/>
+        <tag k="addr:city" v="Namur"/>
+        <tag k="addr:housename" v="A"/>
+        <tag k="addr:postcode" v="4000"/>
+        <tag k="addr:street" v="rue des Bourgeois"/>
+        <tag k="building" v="office"/>
+        <tag k="government" v="ministry"/>
+        <tag k="name" v="Ministère des Finances"/>
+        <tag k="office" v="government"/>
+        <tag k="operator" v="FOD Financiën - SPF Finances - FOD Finanzen"/>
+    </way>
+    <way id="-45" changeset="false">
+        <nd ref="-46"/>
+        <nd ref="-47"/>
+        <nd ref="-48"/>
+        <nd ref="-49"/>
+        <nd ref="-50"/>
+        <nd ref="-51"/>
+        <nd ref="-52"/>
+        <nd ref="-53"/>
+        <nd ref="-54"/>
+        <nd ref="-55"/>
+        <nd ref="-56"/>
+        <nd ref="-57"/>
+        <nd ref="-58"/>
+        <nd ref="-59"/>
+        <nd ref="-60"/>
+        <nd ref="-61"/>
+        <nd ref="-62"/>
+        <nd ref="-63"/>
+        <nd ref="-64"/>
+        <nd ref="-65"/>
+        <nd ref="-66"/>
+        <nd ref="-67"/>
+        <nd ref="-68"/>
+        <nd ref="-69"/>
+        <nd ref="-70"/>
+        <nd ref="-71"/>
+        <nd ref="-72"/>
+        <nd ref="-73"/>
+        <nd ref="-74"/>
+        <nd ref="-75"/>
+        <nd ref="-76"/>
+        <nd ref="-77"/>
+        <nd ref="-78"/>
+        <nd ref="-79"/>
+        <nd ref="-80"/>
+        <nd ref="-81"/>
+        <nd ref="-82"/>
+        <nd ref="-83"/>
+        <nd ref="-84"/>
+        <nd ref="-85"/>
+        <nd ref="-86"/>
+        <nd ref="-87"/>
+        <nd ref="-88"/>
+        <nd ref="-89"/>
+        <nd ref="-90"/>
+        <nd ref="-91"/>
+        <nd ref="-92"/>
+        <nd ref="-93"/>
+        <nd ref="-94"/>
+        <nd ref="-95"/>
+        <nd ref="-96"/>
+        <nd ref="-97"/>
+        <nd ref="-98"/>
+        <nd ref="-46"/>
+        <tag k="addr:city" v="Namur"/>
+        <tag k="addr:postcode" v="4000"/>
+        <tag k="addr:street" v="rue des Bourgeois"/>
+        <tag k="building" v="office"/>
+        <tag k="government" v="ministry"/>
+        <tag k="name" v="Ministère des Finances"/>
+        <tag k="office" v="government"/>
+        <tag k="operator" v="FOD Financiën - SPF Finances - FOD Finanzen"/>
+    </way>
+    <way id="-99" changeset="false">
+        <nd ref="-100"/>
+        <nd ref="-101"/>
+        <nd ref="-102"/>
+        <nd ref="-103"/>
+        <nd ref="-104"/>
+        <nd ref="-105"/>
+        <nd ref="-106"/>
+        <nd ref="-107"/>
+        <nd ref="-108"/>
+        <nd ref="-109"/>
+        <nd ref="-110"/>
+        <nd ref="-100"/>
+    </way>
+    <way id="-111" changeset="false">
+        <nd ref="-112"/>
+        <nd ref="-113"/>
+        <nd ref="-114"/>
+        <nd ref="-115"/>
+        <nd ref="-116"/>
+        <nd ref="-117"/>
+        <nd ref="-118"/>
+        <nd ref="-119"/>
+        <nd ref="-120"/>
+        <nd ref="-121"/>
+        <nd ref="-122"/>
+        <nd ref="-123"/>
+        <nd ref="-124"/>
+        <nd ref="-125"/>
+        <nd ref="-126"/>
+        <nd ref="-127"/>
+        <nd ref="-128"/>
+        <nd ref="-129"/>
+        <nd ref="-130"/>
+        <nd ref="-131"/>
+        <nd ref="-132"/>
+        <nd ref="-133"/>
+        <nd ref="-134"/>
+        <nd ref="-135"/>
+        <nd ref="-136"/>
+        <nd ref="-112"/>
+        <tag k="building" v="school"/>
+    </way>
+    <way id="-137" changeset="false">
+        <nd ref="-138"/>
+        <nd ref="-139"/>
+        <nd ref="-140"/>
+        <nd ref="-141"/>
+        <nd ref="-142"/>
+        <nd ref="-143"/>
+        <nd ref="-144"/>
+        <nd ref="-138"/>
+        <tag k="building" v="school"/>
+    </way>
+</osm>

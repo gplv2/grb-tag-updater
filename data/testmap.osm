@@ -1,0 +1,620 @@
+<osm version="0.6" generator="geojsontoosm">
+  <node id="-1" lat="50.4673514" lon="4.8743044"></node>
+  <node id="-2" lat="50.4668371" lon="4.8724793"></node>
+  <node id="-3" lat="50.466572" lon="4.8726618"></node>
+  <node id="-4" lat="50.4663596" lon="4.8728089"></node>
+  <node id="-5" lat="50.4664919" lon="4.8732797"></node>
+  <node id="-6" lat="50.4662913" lon="4.8734319"></node>
+  <node id="-7" lat="50.466815" lon="4.8753079"></node>
+  <node id="-8" lat="50.4670967" lon="4.8751138"></node>
+  <node id="-9" lat="50.4670521" lon="4.8749461"></node>
+  <node id="-10" lat="50.4672179" lon="4.8748384"></node>
+  <node id="-11" lat="50.4671143" lon="4.8744678"></node>
+  <node id="-12" lat="50.466545" lon="4.8728309"></node>
+  <node id="-13" lat="50.4665631" lon="4.8728932"></node>
+  <node id="-14" lat="50.466569" lon="4.872889"></node>
+  <node id="-15" lat="50.4667813" lon="4.8736387"></node>
+  <node id="-16" lat="50.4667744" lon="4.8736427"></node>
+  <node id="-17" lat="50.466789" lon="4.8736991"></node>
+  <node id="-18" lat="50.4667494" lon="4.8737277"></node>
+  <node id="-19" lat="50.4667556" lon="4.8737509"></node>
+  <node id="-20" lat="50.4667266" lon="4.8737733"></node>
+  <node id="-21" lat="50.4667193" lon="4.8737506"></node>
+  <node id="-22" lat="50.4666791" lon="4.8737759"></node>
+  <node id="-23" lat="50.4666632" lon="4.8737195"></node>
+  <node id="-24" lat="50.4666559" lon="4.8737217"></node>
+  <node id="-25" lat="50.4665527" lon="4.8733553">
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="entrance" v="yes"></tag>
+    <tag k="id" v="node/8040310666"></tag>
+  </node>
+  <node id="-26" lat="50.4664444" lon="4.8729712"></node>
+  <node id="-27" lat="50.4664489" lon="4.8729655"></node>
+  <node id="-28" lat="50.4664334" lon="4.8729067"></node>
+  <node id="-29" lat="50.4664738" lon="4.8728802"></node>
+  <node id="-30" lat="50.4664683" lon="4.8728562"></node>
+  <node id="-31" lat="50.4664974" lon="4.8728349"></node>
+  <node id="-32" lat="50.4665039" lon="4.8728585"></node>
+  <node id="-33" lat="50.4667917" lon="4.8742106"></node>
+  <node id="-34" lat="50.4668104" lon="4.8742738"></node>
+  <node id="-35" lat="50.4668148" lon="4.874267"></node>
+  <node id="-36" lat="50.4670255" lon="4.8750187"></node>
+  <node id="-37" lat="50.4670181" lon="4.8750175"></node>
+  <node id="-38" lat="50.4670364" lon="4.875081"></node>
+  <node id="-39" lat="50.4669953" lon="4.8751092"></node>
+  <node id="-40" lat="50.4670018" lon="4.8751322"></node>
+  <node id="-41" lat="50.4669729" lon="4.8751525"></node>
+  <node id="-42" lat="50.466966" lon="4.87513"></node>
+  <node id="-43" lat="50.466925" lon="4.8751577"></node>
+  <node id="-44" lat="50.4669086" lon="4.8750995"></node>
+  <node id="-45" lat="50.4669025" lon="4.8751029"></node>
+  <node id="-46" lat="50.4668994" lon="4.8750912"></node>
+  <node id="-47" lat="50.4669064" lon="4.8750864"></node>
+  <node id="-48" lat="50.4668837" lon="4.8750061"></node>
+  <node id="-49" lat="50.4668766" lon="4.8750104"></node>
+  <node id="-50" lat="50.4668734" lon="4.8749984"></node>
+  <node id="-51" lat="50.4668803" lon="4.8749938"></node>
+  <node id="-52" lat="50.4668577" lon="4.8749133"></node>
+  <node id="-53" lat="50.4668508" lon="4.8749176"></node>
+  <node id="-54" lat="50.4668474" lon="4.8749056"></node>
+  <node id="-55" lat="50.4668544" lon="4.8749012"></node>
+  <node id="-56" lat="50.4668314" lon="4.8748203"></node>
+  <node id="-57" lat="50.4668245" lon="4.8748246"></node>
+  <node id="-58" lat="50.4668212" lon="4.8748125"></node>
+  <node id="-59" lat="50.4668282" lon="4.8748084"></node>
+  <node id="-60" lat="50.4668176" lon="4.8747705">
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="entrance" v="yes"></tag>
+    <tag k="id" v="node/8040310664"></tag>
+  </node>
+  <node id="-61" lat="50.4668055" lon="4.8747276"></node>
+  <node id="-62" lat="50.4667984" lon="4.874732"></node>
+  <node id="-63" lat="50.4667953" lon="4.8747202"></node>
+  <node id="-64" lat="50.4668022" lon="4.8747148"></node>
+  <node id="-65" lat="50.4667796" lon="4.8746352"></node>
+  <node id="-66" lat="50.4667725" lon="4.8746395"></node>
+  <node id="-67" lat="50.4667693" lon="4.874627"></node>
+  <node id="-68" lat="50.4667759" lon="4.8746227"></node>
+  <node id="-69" lat="50.4667533" lon="4.8745424"></node>
+  <node id="-70" lat="50.4667463" lon="4.8745467"></node>
+  <node id="-71" lat="50.4667431" lon="4.8745345"></node>
+  <node id="-72" lat="50.4667499" lon="4.8745296"></node>
+  <node id="-73" lat="50.4667275" lon="4.8744496"></node>
+  <node id="-74" lat="50.4667203" lon="4.8744541"></node>
+  <node id="-75" lat="50.466717" lon="4.8744415"></node>
+  <node id="-76" lat="50.4667238" lon="4.8744368"></node>
+  <node id="-77" lat="50.4667012" lon="4.874357"></node>
+  <node id="-78" lat="50.4666941" lon="4.8743609"></node>
+  <node id="-79" lat="50.4666907" lon="4.8743487"></node>
+  <node id="-80" lat="50.4666968" lon="4.8743447"></node>
+  <node id="-81" lat="50.4666806" lon="4.8742867"></node>
+  <node id="-82" lat="50.4667216" lon="4.8742593"></node>
+  <node id="-83" lat="50.4667148" lon="4.8742362"></node>
+  <node id="-84" lat="50.4667436" lon="4.8742154"></node>
+  <node id="-85" lat="50.4667506" lon="4.8742382"></node>
+  <node id="-86" lat="50.466854" lon="4.8733934"></node>
+  <node id="-87" lat="50.466893" lon="4.8733641"></node>
+  <node id="-88" lat="50.4668865" lon="4.8733425"></node>
+  <node id="-89" lat="50.4669176" lon="4.8733217"></node>
+  <node id="-90" lat="50.4669244" lon="4.8733449"></node>
+  <node id="-91" lat="50.4669665" lon="4.8733156"></node>
+  <node id="-92" lat="50.4669821" lon="4.8733717"></node>
+  <node id="-93" lat="50.4669861" lon="4.8733686"></node>
+  <node id="-94" lat="50.4672254" lon="4.8742154"></node>
+  <node id="-95" lat="50.4672204" lon="4.8742202"></node>
+  <node id="-96" lat="50.4672351" lon="4.8742781"></node>
+  <node id="-97" lat="50.467196" lon="4.8743074"></node>
+  <node id="-98" lat="50.4672005" lon="4.8743333"></node>
+  <node id="-99" lat="50.4671714" lon="4.874353"></node>
+  <node id="-100" lat="50.4671647" lon="4.8743296"></node>
+  <node id="-101" lat="50.4671248" lon="4.8743572"></node>
+  <node id="-102" lat="50.4671081" lon="4.8742972"></node>
+  <node id="-103" lat="50.467102" lon="4.8743031"></node>
+  <node id="-104" lat="50.467001" lon="4.8739435">
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="entrance" v="yes"></tag>
+    <tag k="id" v="node/8040310665"></tag>
+  </node>
+  <node id="-105" lat="50.4668642" lon="4.8734566"></node>
+  <node id="-106" lat="50.466869" lon="4.8734506"></node>
+  <node id="-107" lat="50.4657492" lon="4.8717889"></node>
+  <node id="-108" lat="50.4657796" lon="4.8718961">
+    <tag k="timestamp" v="2021-06-03T12:17:37Z"></tag>
+    <tag k="version" v="5"></tag>
+    <tag k="changeset" v="105777826"></tag>
+    <tag k="user" v="JuliusOne"></tag>
+    <tag k="uid" v="3051783"></tag>
+    <tag k="crossing" v="uncontrolled"></tag>
+    <tag k="crossing:island" v="no"></tag>
+    <tag k="crossing_ref" v="zebra"></tag>
+    <tag k="highway" v="crossing"></tag>
+    <tag k="tactile_paving" v="no"></tag>
+    <tag k="id" v="node/2734546747"></tag>
+  </node>
+  <node id="-109" lat="50.46606" lon="4.8729131"></node>
+  <node id="-110" lat="50.4660677" lon="4.8729413"></node>
+  <node id="-111" lat="50.4664389" lon="4.8742545"></node>
+  <node id="-112" lat="50.4665803" lon="4.8747549">
+    <tag k="timestamp" v="2020-12-01T19:39:00Z"></tag>
+    <tag k="version" v="4"></tag>
+    <tag k="changeset" v="95113393"></tag>
+    <tag k="user" v="JuliusOne"></tag>
+    <tag k="uid" v="3051783"></tag>
+    <tag k="crossing" v="uncontrolled"></tag>
+    <tag k="crossing:island" v="no"></tag>
+    <tag k="crossing_ref" v="zebra"></tag>
+    <tag k="highway" v="crossing"></tag>
+    <tag k="id" v="node/2734546760"></tag>
+  </node>
+  <node id="-113" lat="50.4666097" lon="4.8748532"></node>
+  <node id="-114" lat="50.4668298" lon="4.8757005"></node>
+  <node id="-115" lat="50.4663395" lon="4.8742101"></node>
+  <node id="-116" lat="50.4663317" lon="4.8742033"></node>
+  <node id="-117" lat="50.4663021" lon="4.874222"></node>
+  <node id="-118" lat="50.4662886" lon="4.87417"></node>
+  <node id="-119" lat="50.466283" lon="4.8741739"></node>
+  <node id="-120" lat="50.4662377" lon="4.8742061"></node>
+  <node id="-121" lat="50.4662395" lon="4.8742125"></node>
+  <node id="-122" lat="50.4662525" lon="4.8742583"></node>
+  <node id="-123" lat="50.4662292" lon="4.8742748"></node>
+  <node id="-124" lat="50.466222" lon="4.8742799"></node>
+  <node id="-125" lat="50.4662189" lon="4.8742955"></node>
+  <node id="-126" lat="50.4662238" lon="4.8743135"></node>
+  <node id="-127" lat="50.4662743" lon="4.8744974"></node>
+  <node id="-128" lat="50.4662726" lon="4.8744993"></node>
+  <node id="-129" lat="50.4662931" lon="4.8745692"></node>
+  <node id="-130" lat="50.4662942" lon="4.8745685"></node>
+  <node id="-131" lat="50.4663513" lon="4.8747709"></node>
+  <node id="-132" lat="50.4663617" lon="4.8747791"></node>
+  <node id="-133" lat="50.4663649" lon="4.8747768"></node>
+  <node id="-134" lat="50.46647" lon="4.8747026"></node>
+  <node id="-135" lat="50.4664723" lon="4.8746828"></node>
+  <node id="-136" lat="50.4664201" lon="4.8744897"></node>
+  <node id="-137" lat="50.4664218" lon="4.8744883"></node>
+  <node id="-138" lat="50.4663982" lon="4.8744091"></node>
+  <node id="-139" lat="50.4663961" lon="4.8744098"></node>
+  <node id="-140" lat="50.4663849" lon="4.8748506"></node>
+  <node id="-141" lat="50.4664998" lon="4.8748188"></node>
+  <node id="-142" lat="50.4665046" lon="4.874812"></node>
+  <node id="-143" lat="50.4665062" lon="4.8748015"></node>
+  <node id="-144" lat="50.4667321" lon="4.8740527">
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="access" v="private"></tag>
+    <tag k="amenity" v="parking_entrance"></tag>
+    <tag k="parking" v="underground"></tag>
+    <tag k="id" v="node/8040310663"></tag>
+  </node>
+  <node id="-145" lat="50.4665706" lon="4.8744598">
+    <tag k="timestamp" v="2019-10-28T22:31:46Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="76317693"></tag>
+    <tag k="user" v="jdevroede"></tag>
+    <tag k="uid" v="10419184"></tag>
+    <tag k="bus" v="yes"></tag>
+    <tag k="highway" v="bus_stop"></tag>
+    <tag k="name" v="NAMUR Rue des Bourgeois"></tag>
+    <tag k="network" v="TEC"></tag>
+    <tag k="public_transport" v="platform"></tag>
+    <tag k="id" v="node/6925693629"></tag>
+  </node>
+  <node id="-146" lat="50.467073" lon="4.873858">
+    <tag k="timestamp" v="2020-05-22T11:45:47Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="85609275"></tag>
+    <tag k="user" v="Vucod import"></tag>
+    <tag k="uid" v="10899207"></tag>
+    <tag k="communication:mobile_phone" v="yes"></tag>
+    <tag k="ref:BE:BIPT" v="21197"></tag>
+    <tag k="ref:BE:Proximus" v="81HEU_01"></tag>
+    <tag k="telecom" v="antenna"></tag>
+    <tag k="id" v="node/7548441307"></tag>
+  </node>
+  <way id="-1">
+    <nd ref="-1"></nd>
+    <nd ref="-2"></nd>
+    <nd ref="-3"></nd>
+    <nd ref="-4"></nd>
+    <nd ref="-5"></nd>
+    <nd ref="-6"></nd>
+    <nd ref="-7"></nd>
+    <nd ref="-8"></nd>
+    <nd ref="-9"></nd>
+    <nd ref="-10"></nd>
+    <nd ref="-11"></nd>
+    <nd ref="-1"></nd>
+  </way>
+  <way id="-2">
+    <nd ref="-12"></nd>
+    <nd ref="-13"></nd>
+    <nd ref="-14"></nd>
+    <nd ref="-15"></nd>
+    <nd ref="-16"></nd>
+    <nd ref="-17"></nd>
+    <nd ref="-18"></nd>
+    <nd ref="-19"></nd>
+    <nd ref="-20"></nd>
+    <nd ref="-21"></nd>
+    <nd ref="-22"></nd>
+    <nd ref="-23"></nd>
+    <nd ref="-24"></nd>
+    <nd ref="-25"></nd>
+    <nd ref="-26"></nd>
+    <nd ref="-27"></nd>
+    <nd ref="-28"></nd>
+    <nd ref="-29"></nd>
+    <nd ref="-30"></nd>
+    <nd ref="-31"></nd>
+    <nd ref="-32"></nd>
+    <nd ref="-12"></nd>
+  </way>
+  <way id="-3">
+    <nd ref="-33"></nd>
+    <nd ref="-34"></nd>
+    <nd ref="-35"></nd>
+    <nd ref="-36"></nd>
+    <nd ref="-37"></nd>
+    <nd ref="-38"></nd>
+    <nd ref="-39"></nd>
+    <nd ref="-40"></nd>
+    <nd ref="-41"></nd>
+    <nd ref="-42"></nd>
+    <nd ref="-43"></nd>
+    <nd ref="-44"></nd>
+    <nd ref="-45"></nd>
+    <nd ref="-46"></nd>
+    <nd ref="-47"></nd>
+    <nd ref="-48"></nd>
+    <nd ref="-49"></nd>
+    <nd ref="-50"></nd>
+    <nd ref="-51"></nd>
+    <nd ref="-52"></nd>
+    <nd ref="-53"></nd>
+    <nd ref="-54"></nd>
+    <nd ref="-55"></nd>
+    <nd ref="-56"></nd>
+    <nd ref="-57"></nd>
+    <nd ref="-58"></nd>
+    <nd ref="-59"></nd>
+    <nd ref="-60"></nd>
+    <nd ref="-61"></nd>
+    <nd ref="-62"></nd>
+    <nd ref="-63"></nd>
+    <nd ref="-64"></nd>
+    <nd ref="-65"></nd>
+    <nd ref="-66"></nd>
+    <nd ref="-67"></nd>
+    <nd ref="-68"></nd>
+    <nd ref="-69"></nd>
+    <nd ref="-70"></nd>
+    <nd ref="-71"></nd>
+    <nd ref="-72"></nd>
+    <nd ref="-73"></nd>
+    <nd ref="-74"></nd>
+    <nd ref="-75"></nd>
+    <nd ref="-76"></nd>
+    <nd ref="-77"></nd>
+    <nd ref="-78"></nd>
+    <nd ref="-79"></nd>
+    <nd ref="-80"></nd>
+    <nd ref="-81"></nd>
+    <nd ref="-82"></nd>
+    <nd ref="-83"></nd>
+    <nd ref="-84"></nd>
+    <nd ref="-85"></nd>
+    <nd ref="-33"></nd>
+  </way>
+  <way id="-4">
+    <nd ref="-86"></nd>
+    <nd ref="-87"></nd>
+    <nd ref="-88"></nd>
+    <nd ref="-89"></nd>
+    <nd ref="-90"></nd>
+    <nd ref="-91"></nd>
+    <nd ref="-92"></nd>
+    <nd ref="-93"></nd>
+    <nd ref="-94"></nd>
+    <nd ref="-95"></nd>
+    <nd ref="-96"></nd>
+    <nd ref="-97"></nd>
+    <nd ref="-98"></nd>
+    <nd ref="-99"></nd>
+    <nd ref="-100"></nd>
+    <nd ref="-101"></nd>
+    <nd ref="-102"></nd>
+    <nd ref="-103"></nd>
+    <nd ref="-104"></nd>
+    <nd ref="-105"></nd>
+    <nd ref="-106"></nd>
+    <nd ref="-86"></nd>
+  </way>
+  <way id="-5">
+    <nd ref="-107"></nd>
+    <nd ref="-108"></nd>
+    <nd ref="-109"></nd>
+    <nd ref="-110"></nd>
+    <nd ref="-111"></nd>
+    <nd ref="-112"></nd>
+    <nd ref="-113"></nd>
+    <nd ref="-114"></nd>
+    <tag k="timestamp" v="2021-12-21T15:51:53Z"></tag>
+    <tag k="version" v="12"></tag>
+    <tag k="changeset" v="115216233"></tag>
+    <tag k="user" v="hesdrib"></tag>
+    <tag k="uid" v="2175149"></tag>
+    <tag k="from" v="Waremme Gare"></tag>
+    <tag k="name" v="TEC Express E84 [1] Waremme - Namur"></tag>
+    <tag k="network" v="Express"></tag>
+    <tag k="operator" v="OTW"></tag>
+    <tag k="ref" v="E84"></tag>
+    <tag k="route" v="bus"></tag>
+    <tag k="to" v="Namur - Place de la Station - Quai E"></tag>
+    <tag k="type" v="route"></tag>
+    <tag k="id" v="relation/11736241"></tag>
+  </way>
+  <way id="-6">
+    <nd ref="-86"></nd>
+    <nd ref="-106"></nd>
+    <nd ref="-105"></nd>
+    <nd ref="-104"></nd>
+    <nd ref="-103"></nd>
+    <nd ref="-102"></nd>
+    <nd ref="-101"></nd>
+    <nd ref="-100"></nd>
+    <nd ref="-99"></nd>
+    <nd ref="-98"></nd>
+    <nd ref="-97"></nd>
+    <nd ref="-96"></nd>
+    <nd ref="-95"></nd>
+    <nd ref="-94"></nd>
+    <nd ref="-93"></nd>
+    <nd ref="-92"></nd>
+    <nd ref="-91"></nd>
+    <nd ref="-90"></nd>
+    <nd ref="-89"></nd>
+    <nd ref="-88"></nd>
+    <nd ref="-87"></nd>
+    <nd ref="-86"></nd>
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="6"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="addr:city" v="Namur"></tag>
+    <tag k="addr:postcode" v="4000"></tag>
+    <tag k="addr:street" v="rue des Bourgeois"></tag>
+    <tag k="building" v="office"></tag>
+    <tag k="government" v="ministry"></tag>
+    <tag k="name" v="Ministère des Finances"></tag>
+    <tag k="office" v="government"></tag>
+    <tag k="operator" v="FOD Financiën - SPF Finances - FOD Finanzen"></tag>
+    <tag k="id" v="way/104905299"></tag>
+  </way>
+  <way id="-7">
+    <nd ref="-12"></nd>
+    <nd ref="-32"></nd>
+    <nd ref="-31"></nd>
+    <nd ref="-30"></nd>
+    <nd ref="-29"></nd>
+    <nd ref="-28"></nd>
+    <nd ref="-27"></nd>
+    <nd ref="-26"></nd>
+    <nd ref="-25"></nd>
+    <nd ref="-24"></nd>
+    <nd ref="-23"></nd>
+    <nd ref="-22"></nd>
+    <nd ref="-21"></nd>
+    <nd ref="-20"></nd>
+    <nd ref="-19"></nd>
+    <nd ref="-18"></nd>
+    <nd ref="-17"></nd>
+    <nd ref="-16"></nd>
+    <nd ref="-15"></nd>
+    <nd ref="-14"></nd>
+    <nd ref="-13"></nd>
+    <nd ref="-12"></nd>
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="7"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="addr:city" v="Namur"></tag>
+    <tag k="addr:housename" v="A"></tag>
+    <tag k="addr:postcode" v="4000"></tag>
+    <tag k="addr:street" v="rue des Bourgeois"></tag>
+    <tag k="building" v="office"></tag>
+    <tag k="government" v="ministry"></tag>
+    <tag k="name" v="Ministère des Finances"></tag>
+    <tag k="office" v="government"></tag>
+    <tag k="operator" v="FOD Financiën - SPF Finances - FOD Finanzen"></tag>
+    <tag k="id" v="way/104905379"></tag>
+  </way>
+  <way id="-8">
+    <nd ref="-33"></nd>
+    <nd ref="-85"></nd>
+    <nd ref="-84"></nd>
+    <nd ref="-83"></nd>
+    <nd ref="-82"></nd>
+    <nd ref="-81"></nd>
+    <nd ref="-80"></nd>
+    <nd ref="-79"></nd>
+    <nd ref="-78"></nd>
+    <nd ref="-77"></nd>
+    <nd ref="-76"></nd>
+    <nd ref="-75"></nd>
+    <nd ref="-74"></nd>
+    <nd ref="-73"></nd>
+    <nd ref="-72"></nd>
+    <nd ref="-71"></nd>
+    <nd ref="-70"></nd>
+    <nd ref="-69"></nd>
+    <nd ref="-68"></nd>
+    <nd ref="-67"></nd>
+    <nd ref="-66"></nd>
+    <nd ref="-65"></nd>
+    <nd ref="-64"></nd>
+    <nd ref="-63"></nd>
+    <nd ref="-62"></nd>
+    <nd ref="-61"></nd>
+    <nd ref="-60"></nd>
+    <nd ref="-59"></nd>
+    <nd ref="-58"></nd>
+    <nd ref="-57"></nd>
+    <nd ref="-56"></nd>
+    <nd ref="-55"></nd>
+    <nd ref="-54"></nd>
+    <nd ref="-53"></nd>
+    <nd ref="-52"></nd>
+    <nd ref="-51"></nd>
+    <nd ref="-50"></nd>
+    <nd ref="-49"></nd>
+    <nd ref="-48"></nd>
+    <nd ref="-47"></nd>
+    <nd ref="-46"></nd>
+    <nd ref="-45"></nd>
+    <nd ref="-44"></nd>
+    <nd ref="-43"></nd>
+    <nd ref="-42"></nd>
+    <nd ref="-41"></nd>
+    <nd ref="-40"></nd>
+    <nd ref="-39"></nd>
+    <nd ref="-38"></nd>
+    <nd ref="-37"></nd>
+    <nd ref="-36"></nd>
+    <nd ref="-35"></nd>
+    <nd ref="-34"></nd>
+    <nd ref="-33"></nd>
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="7"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="addr:city" v="Namur"></tag>
+    <tag k="addr:postcode" v="4000"></tag>
+    <tag k="addr:street" v="rue des Bourgeois"></tag>
+    <tag k="building" v="office"></tag>
+    <tag k="government" v="ministry"></tag>
+    <tag k="name" v="Ministère des Finances"></tag>
+    <tag k="office" v="government"></tag>
+    <tag k="operator" v="FOD Financiën - SPF Finances - FOD Finanzen"></tag>
+    <tag k="id" v="way/104905421"></tag>
+  </way>
+  <way id="-9">
+    <nd ref="-115"></nd>
+    <nd ref="-116"></nd>
+    <nd ref="-117"></nd>
+    <nd ref="-118"></nd>
+    <nd ref="-119"></nd>
+    <nd ref="-120"></nd>
+    <nd ref="-121"></nd>
+    <nd ref="-122"></nd>
+    <nd ref="-123"></nd>
+    <nd ref="-124"></nd>
+    <nd ref="-125"></nd>
+    <nd ref="-126"></nd>
+    <nd ref="-127"></nd>
+    <nd ref="-128"></nd>
+    <nd ref="-129"></nd>
+    <nd ref="-130"></nd>
+    <nd ref="-131"></nd>
+    <nd ref="-132"></nd>
+    <nd ref="-133"></nd>
+    <nd ref="-134"></nd>
+    <nd ref="-135"></nd>
+    <nd ref="-136"></nd>
+    <nd ref="-137"></nd>
+    <nd ref="-138"></nd>
+    <nd ref="-139"></nd>
+    <nd ref="-115"></nd>
+    <tag k="timestamp" v="2020-01-11T13:41:27Z"></tag>
+    <tag k="version" v="3"></tag>
+    <tag k="changeset" v="79451773"></tag>
+    <tag k="user" v="Mercator"></tag>
+    <tag k="uid" v="1267"></tag>
+    <tag k="building" v="school"></tag>
+    <tag k="id" v="way/762463779"></tag>
+  </way>
+  <way id="-10">
+    <nd ref="-135"></nd>
+    <nd ref="-134"></nd>
+    <nd ref="-133"></nd>
+    <nd ref="-140"></nd>
+    <nd ref="-141"></nd>
+    <nd ref="-142"></nd>
+    <nd ref="-143"></nd>
+    <nd ref="-135"></nd>
+    <tag k="timestamp" v="2020-01-11T13:38:21Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="79451687"></tag>
+    <tag k="user" v="Mercator"></tag>
+    <tag k="uid" v="1267"></tag>
+    <tag k="building" v="school"></tag>
+    <tag k="id" v="way/762463925"></tag>
+  </way>
+  <way id="-11">
+    <nd ref="-107"></nd>
+    <nd ref="-108"></nd>
+    <nd ref="-109"></nd>
+    <nd ref="-110"></nd>
+    <nd ref="-111"></nd>
+    <nd ref="-112"></nd>
+    <nd ref="-113"></nd>
+    <nd ref="-114"></nd>
+    <tag k="timestamp" v="2021-05-20T16:57:19Z"></tag>
+    <tag k="version" v="18"></tag>
+    <tag k="changeset" v="105041961"></tag>
+    <tag k="user" v="Clavv"></tag>
+    <tag k="uid" v="15170"></tag>
+    <tag k="highway" v="residential"></tag>
+    <tag k="lane_markings" v="no"></tag>
+    <tag k="lit" v="sunset-sunrise"></tag>
+    <tag k="maxspeed" v="30"></tag>
+    <tag k="name" v="Rue des Bourgeois"></tag>
+    <tag k="postal_code" v="5000"></tag>
+    <tag k="surface" v="asphalt"></tag>
+    <tag k="id" v="way/28417997"></tag>
+  </way>
+  <way id="-12">
+    <nd ref="-144"></nd>
+    <nd ref="-111"></nd>
+    <tag k="timestamp" v="2020-10-23T16:53:58Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="92962110"></tag>
+    <tag k="user" v="DJ_frombelgium"></tag>
+    <tag k="uid" v="96395"></tag>
+    <tag k="highway" v="service"></tag>
+    <tag k="ramp" v="yes"></tag>
+    <tag k="service" v="parking_aisle"></tag>
+    <tag k="id" v="way/863076257"></tag>
+  </way>
+  <relation id="-1">
+    <member type="way" ref="-1" role="outer"></member>
+    <member type="way" ref="-2" role="inner"></member>
+    <member type="way" ref="-3" role="inner"></member>
+    <member type="way" ref="-4" role="inner"></member>
+    <tag k="timestamp" v="2016-06-14T15:04:55Z"></tag>
+    <tag k="version" v="1"></tag>
+    <tag k="changeset" v="40019345"></tag>
+    <tag k="user" v="steak country"></tag>
+    <tag k="uid" v="166307"></tag>
+    <tag k="area" v="yes"></tag>
+    <tag k="highway" v="pedestrian"></tag>
+    <tag k="type" v="multipolygon"></tag>
+    <tag k="id" v="relation/6315032"></tag>
+  </relation>
+</osm>
