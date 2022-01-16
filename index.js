@@ -25,8 +25,8 @@ var parser = new xml2js.Parser();
 var stats = [ ];
 
 // config
-//const fileNamePath = path.join(__dirname, "./data/export.osm");
-const fileNamePath = path.join(__dirname, "./data/osm_version_ref.xml");
+const fileNamePath = path.join(__dirname, "./data/export.osm");
+//const fileNamePath = path.join(__dirname, "./data/osm_version_ref.xml");
 
 console.log("Loading OSM data ... ");
 fs.readFile(fileNamePath, function (err, data) {
