@@ -18,10 +18,6 @@ var client = new Client();
 
 var cn = client.connectSync(db_url);
 
-if (cn) {
-    console.log('Connected to database');
-}
-
 var GeoJSON = require('geojson');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
@@ -29,8 +25,8 @@ var parser = new xml2js.Parser();
 var stats = [ ];
 
 // config
-const fileNamePath = path.join(__dirname, "./data/export.osm");
-//const fileNamePath = path.join(__dirname, "./data/osm_version_ref.xml");
+//const fileNamePath = path.join(__dirname, "./data/export.osm");
+const fileNamePath = path.join(__dirname, "./data/osm_version_ref.xml");
 
 console.log("Loading OSM data ... ");
 fs.readFile(fileNamePath, function (err, data) {
@@ -165,6 +161,7 @@ fs.readFile(fileNamePath, function (err, data) {
 
         stats['matches']=0;
         stats['misses']=0;
+        stats['author']= [ ] ;
 
         polys.forEach((poly) => {
             //console.log(util.inspect(poly, false, null));
@@ -198,7 +195,6 @@ fs.readFile(fileNamePath, function (err, data) {
                 }
                 //var res = [ ];
                 if (row.hausdorf < 0.5 ) {
-                    //console.log(util.inspect(result, false, null));
                     var filter = "$.osm.way[*][?(@.id=='" + osm_id + "')]";
                     var myway = jp.paths(result, filter);
                     //var myway = jp.paths(result, "$.osm.way[*][?(@.id=='480239761')]");
@@ -207,6 +203,9 @@ fs.readFile(fileNamePath, function (err, data) {
                     // console.log(jp.stringify(myway[0]));
                     var xpath = jp.stringify(myway[0]);
                     var xindex = xpath.replace(/[^0-9]/g,'');
+
+                    // console.log(util.inspect(result.osm.way[xindex]["$"], false, null));
+                    // process.exit();
 
                     //var extra_attribute = { k: "source:geometry:ref", v: "row.ref" };
                     //var extra_attribute ='k="source:geometry:ref" v="123213"';
@@ -336,6 +335,15 @@ fs.readFile(fileNamePath, function (err, data) {
                     //console.log(result);
                     // $.osm.way[2]["$"].id
                     //process.exit();
+                    // Count the number of buildings done by the author (might be off depending on how many times the same area has been checked without upload
+                    
+                    var author=result.osm.way[xindex]["$"].user;
+                    if ( stats['author'][author] !== null && stats['author'][author] !== undefined ) {
+                        stats['author'][author]++;
+                    } else {
+                        stats['author'][author]=1;
+                    }
+
                     stats['matches']++;
                 } else {
                     stats['misses']++;
@@ -344,10 +352,21 @@ fs.readFile(fileNamePath, function (err, data) {
         });
 
         console.log(stats);
+
+        // INSERT INTO importers ("user","score") VALUES ('glenn',1) ON CONFLICT ("user") DO UPDATE SET score=importers.score+1;
+        var stats_query='INSERT INTO importers ("user","score") VALUES ($1::text,$2::integer) ON CONFLICT ("user") DO UPDATE SET score=importers.score + $2::int';
+        console.log("Storing users stats in database");
+
+        Object.keys(stats['author']).forEach(function(k) {
+            console.log("Saving stats: "+ stats['author'][k] +  " for "+ k);
+            var params = new Array( k, stats['author'][k] );
+            var rows = client.querySync(stats_query,params);
+        });
         //console.log(result);
 
         //console.log(JSON.stringify(result, null, 4));
         // process.exit();
+        console.log("Building output OSM xml for JOSM");
         var builder = new xml2js.Builder();
         var xml = builder.buildObject(result);
         //console.log(xml);
