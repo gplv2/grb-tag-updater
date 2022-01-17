@@ -194,7 +194,7 @@ fs.readFile(fileNamePath, function (err, data) {
                     console.log(`Id: ${row.osm_id} Hausdorf: ${row.hausdorf} sourceref: ${row.ref}`);
                 }
                 //var res = [ ];
-                if (row.hausdorf < 0.5 ) {
+                if (row.hausdorf < 0.3 ) {
                     var filter = "$.osm.way[*][?(@.id=='" + osm_id + "')]";
                     var myway = jp.paths(result, filter);
                     //var myway = jp.paths(result, "$.osm.way[*][?(@.id=='480239761')]");
