@@ -1,0 +1,15 @@
+{{key=source:geometry:ref}}
+
+<osm-script output="xml">
+  <!-- fetch area “belgium” to search in -->
+  <id-query {{nominatimArea:"Brussels-Capital"}} into="area"/>
+  <!-- gather results -->
+   <query type="way">
+      <has-kv k="{{key}}" />
+      <area-query from="area"/>
+   </query>
+   <print from="_" limit="" mode="meta" order="id"/>
+  <print mode="meta"/>
+  <recurse type="down"/>
+  <print mode="meta"/>
+</osm-script>
