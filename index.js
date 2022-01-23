@@ -10,7 +10,8 @@ var jp = require('jsonpath');
 var Client = require('pg-native');
 
 // without sslmode=disable it core dumps with a segfault
-var db_url = 'postgres://grb-data:str0ngDBp4ssw0rd@localhost:5434/grb_api?sslmode=disable';
+//var db_url = 'postgres://grb-data:str0ngDBp4ssw0rd@localhost:5432/grb_api?sslmode=disable';
+var db_url = 'postgres://gisuser:Snowball22..@localhost:5432/grb_api?sslmode=disable';
 
 console.log("Connecting to database ... ");
 
@@ -194,6 +195,9 @@ fs.readFile(fileNamePath, function (err, data) {
                     console.log(`Id: ${row.osm_id} Hausdorf: ${row.hausdorf} sourceref: ${row.ref}`);
                 }
                 //var res = [ ];
+	        //console.log(query);
+	        //console.log(params);
+	
                 if (row.hausdorf < 0.3 ) {
                     var filter = "$.osm.way[*][?(@.id=='" + osm_id + "')]";
                     var myway = jp.paths(result, filter);
@@ -214,11 +218,13 @@ fs.readFile(fileNamePath, function (err, data) {
                         if  (addresses[osm_id]) {
                             console.log(addresses[osm_id]);
                             // there is an urbis ref present
-                            if (('Urbis/'+ addresses[osm_id].urbis) !== row.ref ){
-                                console.log("non matching urbis refs");
-                                var error = { "$": { "k": "note", "v": "Urbis ref mismatch! This building has a different unique ref in current Urbis data, perhaps demolished/replaced or rebuilt." } };
-                                extras.push (error);
-                                //process.exit();
+                            if ( row.ref !== null && row.ref !== undefined && addresses[osm_id].urbis !== null && addresses[osm_id].urbis !== undefined ) {
+                                if (('Urbis/'+ addresses[osm_id].urbis) !== row.ref ){
+                                    console.log("non matching urbis refs");
+                                    var error = { "$": { "k": "note", "v": "Urbis ref mismatch! This building has a different unique ref in current Urbis data, perhaps demolished/replaced or rebuilt." } };
+                                    extras.push (error);
+                                    //process.exit();
+                                }
                             }
                         }
                         var extra_date_attribute = { "$": { "k": "source:geometry:version", "v": row.version } };
@@ -256,14 +262,14 @@ fs.readFile(fileNamePath, function (err, data) {
                                 // ex: $.osm.way[131].tag[1]["$"]
                                 console.log(result.osm.way[xindex].tag[xindexa]["$"].v);
                                 // save the wrong addres in another tag for check
-                                var error_address = { "$": { "k": "old_street", "v": result.osm.way[xindex].tag[xindexa]["$"].v } };
+                                var error_address = { "$": { "k": "fix_old_street", "v": result.osm.way[xindex].tag[xindexa]["$"].v } };
                                 extras.push (error_address);
 
                                 // replace the address to the correct one
                                 result.osm.way[xindex].tag[xindexa]["$"].v = row.street;
                                 // console.log(result.osm.way[xindex]["tag"]);
                                 console.log(result.osm.way[xindex].tag[xindexa]);
-                                console.log("SFASFD:   " + row.street);
+                                //console.log("SFASFD:   " + row.street);
 
                                 // street is not the same
                                 issues=true;
@@ -288,10 +294,10 @@ fs.readFile(fileNamePath, function (err, data) {
                                 // ex: $.osm.way[131].tag[1]["$"]
                                 console.log(result.osm.way[xindex].tag[xindexh]["$"].v);
                                 // save the wrong addres in another tag for check
-                                var error_number = { "$": { "k": "old_housenumber", "v": result.osm.way[xindex].tag[xindexh]["$"].v } };
+                                var error_number = { "$": { "k": "fix_old_housenumber", "v": result.osm.way[xindex].tag[xindexh]["$"].v } };
                                 extras.push (error_number);
 
-                                console.log("SFASFD:   " + row.number);
+                                //console.log("SFASFD:   " + row.number);
 
                                 // replace the number to the correct one
                                 result.osm.way[xindex].tag[xindexh]["$"].v = row.number;
@@ -309,10 +315,7 @@ fs.readFile(fileNamePath, function (err, data) {
                                 //process.exit();
                                 extras.push (error);
                             }
-                            if (osm_id == 875840272 ) {
-                                console.log(result.osm.way[xindex]["$"]);
-                                //process.exit();
-                            }
+                            //console.log(result.osm.way[xindex]["$"]);
                         }
                     }
 
