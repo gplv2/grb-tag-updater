@@ -103,5 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-data/export.osm
-data/output.osm
+data/*
+data/*

@@ -2,6 +2,29 @@
 
 // libraries
 
+const yargs = require('yargs');
+
+const argv = yargs
+  .option('readdress', {
+    alias: 'r',
+    description: 'Throw away current addressing and readdress from source',
+    type: 'boolean'
+  })
+  .option('skipstats', {
+    alias: 's',
+    description: 'Do not save stats to database',
+    type: 'boolean'
+  })
+  .help()
+  .alias('help', 'h').argv;
+
+//console.log(argv);
+//process.exit();
+
+if (argv.readdress) { 
+    console.log("Running in re-addressing mode");
+}
+
 const path = require("path");
 const fs = require("fs");
 const util = require('util');
@@ -103,7 +126,7 @@ fs.readFile(fileNamePath, function (err, data) {
                         //console.log(key.$.k);
                     }
                 });
-                if (is_building && is_sourced_building !== 2 ) {
+                if ((is_building && is_sourced_building !== 2)  || is_building && argv.readdress ) {
                     console.log("Found building : " + element.$.id);
                     //console.log("source_tags : " + is_sourced_building);
                     // we found a building without source tags.
@@ -166,7 +189,7 @@ fs.readFile(fileNamePath, function (err, data) {
 
         polys.forEach((poly) => {
             //console.log(util.inspect(poly, false, null));
-            //console.log(poly.features[0].properties.id['ref']);
+            console.log(poly.features[0].properties.id['ref']);
             var osm_id=poly.features[0].properties.id['ref'];
             var geometry=JSON.stringify(poly.features[0].geometry);
             /*
@@ -356,15 +379,19 @@ fs.readFile(fileNamePath, function (err, data) {
 
         console.log(stats);
 
-        // INSERT INTO importers ("user","score") VALUES ('glenn',1) ON CONFLICT ("user") DO UPDATE SET score=importers.score+1;
-        var stats_query='INSERT INTO importers ("user","score") VALUES ($1::text,$2::integer) ON CONFLICT ("user") DO UPDATE SET score=importers.score + $2::int';
-        console.log("Storing users stats in database");
+        if (argv.skipstats) {
+            console.log("Skip storing users stats in database");
+        } else {
+            // INSERT INTO importers ("user","score") VALUES ('glenn',1) ON CONFLICT ("user") DO UPDATE SET score=importers.score+1;
+            var stats_query='INSERT INTO importers ("user","score") VALUES ($1::text,$2::integer) ON CONFLICT ("user") DO UPDATE SET score=importers.score + $2::int';
+            console.log("Storing users stats in database");
 
-        Object.keys(stats['author']).forEach(function(k) {
-            console.log("Saving stats: "+ stats['author'][k] +  " for "+ k);
-            var params = new Array( k, stats['author'][k] );
-            var rows = client.querySync(stats_query,params);
-        });
+            Object.keys(stats['author']).forEach(function(k) {
+                console.log("Saving stats: "+ stats['author'][k] +  " for "+ k);
+                var params = new Array( k, stats['author'][k] );
+                var rows = client.querySync(stats_query,params);
+            });
+        }
         //console.log(result);
 
         //console.log(JSON.stringify(result, null, 4));
